@@ -1,5 +1,5 @@
 ## Hi there, I'm Marlis!
-#### Front-end developer with experience in building modern web applications. Passionate about the latest technologies and best practices in web development.
+#### Web developer with experience in building modern web applications. Passionate about the latest technologies and best practices in web development.
 
 ## Skills:
 <br/>
