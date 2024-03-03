@@ -1,13 +1,13 @@
 ## Hi there, I'm Marlis!
 #### Web developer with experience in building modern web applications. Passionate about the latest technologies and best practices in web development.
 
-<h2>Skills</h3>
+## Skills:
 <br/>
 
 <a href="https://learn.javascript.ru/">
     <img height="45px" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,mui,bootstrap,figma" alt="My Skills">
     <br/>
-    <img height="45px" src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,firebase,nodejs" alt="My Skills">
+    <img height="45px" src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,firebase,nodejs" alt="My Skills" >
 </a> 
 <br/>
 
