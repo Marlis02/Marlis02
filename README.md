@@ -16,10 +16,10 @@
 ## Contacts:
 <br/>
 
-[<img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-512.png" width="40px" height="40px">](https://twitter.com/Marlis78608473)
-[<img src="https://cdn1.iconfinder.com/data/icons/social-media-2149/100/--09-512.png" width="40px" height="40px">](https://t.me/qqqqqI5)
-[<img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/600/Instagram_glyph_svg-512.png" width="40px" height="40px">](https://www.instagram.com/m.erkinbekov_/)
-[<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-256.png" width="40px" height="40px">](https://www.linkedin.com/in/marlis-erkinbekov-737b73282/)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" width="40px" height="40px">](https://t.me/qqqqqI5)
+[<img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="40px" height="40px">](https://twitter.com/Marlis78608473)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" width="40px" height="40px">](https://www.instagram.com/m.erkinbekov_/)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="40px" height="40px">](https://www.linkedin.com/in/marlis-erkinbekov-737b73282/)
 
 <hr/>
 <br/>
